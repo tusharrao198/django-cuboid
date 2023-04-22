@@ -19,6 +19,7 @@ markdown-it-py==2.2.0
 mdurl==0.1.2
 multidict==6.0.4
 oauthlib==3.2.2
+psycopg2-binary==2.9.6
 pycparser==2.21
 Pygments==2.14.0
 PyJWT==2.6.0
